@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /@repo_id@/search/page.action
+Disallow: /@repo_id@/similarSearch/
+Disallow: /@repo_id@/browse/keywords
